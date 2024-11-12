@@ -12,7 +12,7 @@ public class CameraController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-//git test1
+//sample 2
         traget = GameObject.FindGameObjectWithTag("Player").transform;
     }
 
