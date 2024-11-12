@@ -13,6 +13,7 @@ public class CameraController : MonoBehaviour
     void Start()
     {
 //sample 12
+//rebase
         traget = GameObject.FindGameObjectWithTag("Player").transform;
     }
 
